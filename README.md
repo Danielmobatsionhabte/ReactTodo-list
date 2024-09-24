@@ -20,5 +20,3 @@ This project helps React developers learn basic and important concepts such as s
 - JavaScript (ES6+)
 - CSS (for themes)
 - LocalStorage API
-
-- 
